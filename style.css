@@ -1,0 +1,69 @@
+body{
+    background-color: gray;
+    color: white;
+}
+#balkep{
+    width: 170px;
+    height: 110px;
+    margin-right: 10px;
+    box-shadow: 5px 5px 3px #1D1D4E;
+    float: left;
+}
+#jobbkep{
+    box-shadow: 5px 5px 3px #1D1D4E;
+    width: 310px;
+    height: 210px;
+    float: right;
+}  
+.forras{
+    text-align: center;
+   
+    
+}
+h1{
+    text-align: center;
+}
+table{
+    box-shadow: 5px 5px 3px #1D1D4E;
+    background-color: gray;
+    border-collapse: collapse;
+    width: 325px;
+    height: 350px;
+}
+tr{
+    
+    font-style: normal;
+    
+}   
+th, td {
+    font-style: italic;
+    border: 1px dotted  #1D1D4E;
+}
+a:visited{
+    color: #4E0582;
+}
+a:active{
+    color: red;
+}
+hr{
+    height: 2px;
+    color: black;
+    margin-left: 75px;
+}
+.baloldal{
+    text-align: right;
+    font-style: normal;
+    padding-right: 5px;
+    font-weight: bold;
+}
+a:link{
+    color: #4E0582;
+}
+.fejsor{
+    text-align: center;
+    background-color: #1D1D4E;
+    font-style:normal;
+    font-weight: bold;
+    
+       
+}
